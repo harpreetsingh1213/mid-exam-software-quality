@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\W24\\Software Quality\\LaptopDiscount\\LaptopDiscount\\LaptopDiscount.csproj": {}
+    "D:\\W24\\Software Quality\\mid-exam-software-quality\\LaptopDiscount\\LaptopDiscount\\LaptopDiscount.csproj": {}
   },
   "projects": {
-    "D:\\W24\\Software Quality\\LaptopDiscount\\LaptopDiscount\\LaptopDiscount.csproj": {
+    "D:\\W24\\Software Quality\\mid-exam-software-quality\\LaptopDiscount\\LaptopDiscount\\LaptopDiscount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\W24\\Software Quality\\LaptopDiscount\\LaptopDiscount\\LaptopDiscount.csproj",
+        "projectUniqueName": "D:\\W24\\Software Quality\\mid-exam-software-quality\\LaptopDiscount\\LaptopDiscount\\LaptopDiscount.csproj",
         "projectName": "LaptopDiscount",
-        "projectPath": "D:\\W24\\Software Quality\\LaptopDiscount\\LaptopDiscount\\LaptopDiscount.csproj",
+        "projectPath": "D:\\W24\\Software Quality\\mid-exam-software-quality\\LaptopDiscount\\LaptopDiscount\\LaptopDiscount.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\W24\\Software Quality\\LaptopDiscount\\LaptopDiscount\\obj\\",
+        "outputPath": "D:\\W24\\Software Quality\\mid-exam-software-quality\\LaptopDiscount\\LaptopDiscount\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
